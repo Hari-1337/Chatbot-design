@@ -1,0 +1,16 @@
+.main_suc{
+    background-color: #e4fafb;
+    height: 100dvh;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items: center;
+}
+.heading_su{
+    text-align: center;
+    margin: 20px;
+}
+.img_su{
+    width: 260px;
+    /* height: 100px; */
+}
